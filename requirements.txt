@@ -11,5 +11,5 @@ google-api-python-client>=2.150
 google-auth-oauthlib>=1.2
 google-auth-httplib2>=0.2
 pywebview>=6
-faster-whisper>=1.2
+faster-whisper>=1.2.1
 sounddevice>=0.5
